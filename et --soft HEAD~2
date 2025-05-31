@@ -1,0 +1,59 @@
+[33m7f55793[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m first commit
+[33m87c9168[m first commit
+[33m446df9b[m add otp security
+[33m21895ba[m add otp feture
+[33meb9207d[m its ready to test
+[33m34e4aa6[m add feture for count drivers revenue
+[33m5bfee0c[m add some more filds to dtos
+[33mdaa8f8b[m Merge branch 'master' of https://github.com/ashokzarmariya/cab-booking-api
+[33m37c6cb8[m integrate rozarpay payment getway
+[33md02eb2e[m fixed issue
+[33md1dd915[m create api for get completed ride of user and driver
+[33mee4de5f[m create method for get drivers current ride
+[33m0baac17[m Merge branch 'master' of https://github.com/ashokzarmariya/cab-booking-api
+[33m191e1e2[m create dtos and complete rides all api
+[33m7e94a5b[m Create README.md
+[33m04e66b3[m handle exception when creating new user
+[33mb912031[m create api for getting reqDriver profile
+[33m27e8d7e[m fixed some error
+[33m7dbe38a[m implement api for registering driver and update, add some required fild to user entity and driver entity
+[33m38b3aa9[m implement ride complete method
+[33m08b0c5a[m annotete driver service impl class with service anotation
+[33me031892[m send ride request and create ride fot this
+[33m83ac29e[m write logic for geting all availabe driver and find nearest driver
+[33m09b59ae[m add update fild at ride class
+[33m78fe578[m add ride fild to driver class
+[33m75662f1[m create driver service
+[33m20f5eb6[m create ride repository
+[33m2bd7237[m create driver repository
+[33m3a7bdbb[m create RideRequest class
+[33m239b4fb[m create method for calculating distence between to picup location and destination
+[33maa2e905[m create method for calculating distence between to picup location and destination
+[33m416841e[m add jwt validation filter
+[33m8e13a22[m implement loadUserByUsername method
+[33m269d5fd[m implement signup method with jwt
+[33meac9676[m create signup req class
+[33me8d3190[m write configration and jwtgenerator filter
+[33m7d2e501[m annotet userserviceimplentation class with @service
+[33m2b39375[m create auth controller
+[33me12072b[m create find user by id handler
+[33m1bcf911[m create auth controller
+[33m8c0d5bd[m create auth controller
+[33md7dabe9[m implement all the user service method
+[33m7482618[m create user service
+[33mb52f70e[m create user repository
+[33m6e8ffa3[m create custom error handling class
+[33m006645c[m handle exception
+[33mab04823[m fixed error in trip entity
+[33mb17b4e2[m create review modal
+[33m63f4c11[m create a trip modal
+[33m694059d[m create vehicle modal
+[33mcd95686[m create vehicle modal
+[33m4045cbc[m create Location modal
+[33md20dc8e[m create Ride Request modal
+[33m028b994[m create ride modal
+[33m748208e[m create driver modal
+[33m6ac1dcf[m create user modal
+[33mb510ae2[m create home controller
+[33m4f720be[m add mysql database configration
+[33m5867b16[m create spring boot project
