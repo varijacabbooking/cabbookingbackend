@@ -53,7 +53,7 @@ public class AppConfig  {
 						
 						"http://localhost:3000", 
 						"http://localhost:3001",
-						"https://whatsaap-india.vercel.app"));
+						"https://varijacabbookingapp.vercel.app"));
 				//cfg.setAllowedMethods(Arrays.asList("GET", "POST","DELETE","PUT"));
 				cfg.setAllowedMethods(Collections.singletonList("*"));
 				cfg.setAllowCredentials(true);
